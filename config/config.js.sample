@@ -79,8 +79,8 @@ var config = {
 			config: {
 				feeds: [
 					{
-						title: "New York Times",
-						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+						title: "Excelsior",
+						url: "https://www.excelsior.com.mx/rss.xml"
 					}
 				],
 				showSourceTitle: true,
